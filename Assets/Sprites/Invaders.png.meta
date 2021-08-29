@@ -1,0 +1,4580 @@
+fileFormatVersion: 2
+guid: af09896b56e2927468529e28a438e579
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1435594153905484796
+    second: Invaders_0
+  - first:
+      213: 2979412669363659901
+    second: Invaders_1
+  - first:
+      213: 779800875275762345
+    second: Invaders_2
+  - first:
+      213: 5821230195283724950
+    second: Invaders_3
+  - first:
+      213: 7516698786758832298
+    second: Invaders_4
+  - first:
+      213: 5767124052082980154
+    second: Invaders_5
+  - first:
+      213: -8759442410213837655
+    second: Invaders_6
+  - first:
+      213: 4302396151035071551
+    second: Invaders_7
+  - first:
+      213: 2459265158411563886
+    second: Invaders_8
+  - first:
+      213: -6775065367532190534
+    second: Invaders_9
+  - first:
+      213: -6495353592534769661
+    second: Invaders_10
+  - first:
+      213: -4931732180336928932
+    second: Invaders_11
+  - first:
+      213: -3747553358213749650
+    second: Invaders_12
+  - first:
+      213: 4665431016214890151
+    second: Invaders_13
+  - first:
+      213: -6636714950632876296
+    second: Invaders_14
+  - first:
+      213: 8839651128148340415
+    second: Invaders_15
+  - first:
+      213: 1800460398593713138
+    second: Invaders_16
+  - first:
+      213: 3153979355062389383
+    second: Invaders_17
+  - first:
+      213: -5006788354822937659
+    second: Invaders_18
+  - first:
+      213: -8850111612393693526
+    second: Invaders_19
+  - first:
+      213: -8824741587344470407
+    second: Invaders_20
+  - first:
+      213: 5717499961332605709
+    second: Invaders_21
+  - first:
+      213: 5175684153503573545
+    second: Invaders_22
+  - first:
+      213: -8315693408478707094
+    second: Invaders_23
+  - first:
+      213: 1876254047230681199
+    second: Invaders_24
+  - first:
+      213: -7596622654068422190
+    second: Invaders_25
+  - first:
+      213: 8657483617211598588
+    second: Invaders_26
+  - first:
+      213: -6524569676738844969
+    second: Invaders_27
+  - first:
+      213: -4356160298796723555
+    second: Invaders_28
+  - first:
+      213: -4602049057342182601
+    second: Invaders_29
+  - first:
+      213: 1285244199261958878
+    second: Invaders_30
+  - first:
+      213: 1343640915079898841
+    second: Invaders_31
+  - first:
+      213: 6715422722929330261
+    second: Invaders_32
+  - first:
+      213: 1840360132289090002
+    second: Invaders_33
+  - first:
+      213: -8371032627328376229
+    second: Invaders_34
+  - first:
+      213: -1429797717528885542
+    second: Invaders_35
+  - first:
+      213: 733476371128648780
+    second: Invaders_36
+  - first:
+      213: -5900558608270903187
+    second: Invaders_37
+  - first:
+      213: -518079599762908685
+    second: Invaders_38
+  - first:
+      213: -8180018770489335817
+    second: Invaders_39
+  - first:
+      213: -1818051828585776452
+    second: Invaders_40
+  - first:
+      213: 1278666600130913255
+    second: Invaders_41
+  - first:
+      213: -7058322894019682241
+    second: Invaders_42
+  - first:
+      213: 7258328225999745054
+    second: Invaders_43
+  - first:
+      213: -824331772318450253
+    second: Invaders_44
+  - first:
+      213: 2205719966376080584
+    second: Invaders_45
+  - first:
+      213: -8429662816910691962
+    second: Invaders_46
+  - first:
+      213: 5201685092738460260
+    second: Invaders_47
+  - first:
+      213: 6135772539660774838
+    second: Invaders_48
+  - first:
+      213: -780291210061611214
+    second: Invaders_49
+  - first:
+      213: -6540284539919240896
+    second: Invaders_50
+  - first:
+      213: 6399975790470199607
+    second: Invaders_51
+  - first:
+      213: 2403604767587051030
+    second: Invaders_52
+  - first:
+      213: -2121268320020718792
+    second: Invaders_53
+  - first:
+      213: -7033892936950446126
+    second: Invaders_54
+  - first:
+      213: -5746760288764980899
+    second: Invaders_55
+  - first:
+      213: -620422622279562734
+    second: Invaders_56
+  - first:
+      213: 1066405903341765935
+    second: Invaders_57
+  - first:
+      213: -289726051072323586
+    second: Invaders_58
+  - first:
+      213: 3080217786945912870
+    second: Invaders_59
+  - first:
+      213: 707202152457143588
+    second: Invaders_60
+  - first:
+      213: -4795235359944406798
+    second: Invaders_61
+  - first:
+      213: 3818704282771592040
+    second: Invaders_62
+  - first:
+      213: -5195152173052921050
+    second: Invaders_63
+  - first:
+      213: -7232030948931968492
+    second: Invaders_64
+  - first:
+      213: -7363116984424184101
+    second: Invaders_65
+  - first:
+      213: -666386487549384623
+    second: Invaders_66
+  - first:
+      213: -3073966141846338120
+    second: Invaders_67
+  - first:
+      213: 2553124273214387578
+    second: Invaders_68
+  - first:
+      213: 2315769695457001861
+    second: Invaders_69
+  - first:
+      213: 2806417130416439267
+    second: Invaders_70
+  - first:
+      213: 229184207372465799
+    second: Invaders_71
+  - first:
+      213: 3071754490641505707
+    second: Invaders_72
+  - first:
+      213: 7091647760014629578
+    second: Invaders_73
+  - first:
+      213: -5584722119692773400
+    second: Invaders_74
+  - first:
+      213: 8560463750364086136
+    second: Invaders_75
+  - first:
+      213: -7339036648562566480
+    second: Invaders_76
+  - first:
+      213: 7507612263178859722
+    second: Invaders_77
+  - first:
+      213: -963603262001145415
+    second: Invaders_78
+  - first:
+      213: -1790460467581112658
+    second: Invaders_79
+  - first:
+      213: -1300741797172202252
+    second: Invaders_80
+  - first:
+      213: -8374649298947996609
+    second: Invaders_81
+  - first:
+      213: -2284224765226099062
+    second: Invaders_82
+  - first:
+      213: 3467013758982547009
+    second: Invaders_83
+  - first:
+      213: 7847041294748426567
+    second: Invaders_84
+  - first:
+      213: -2657583204605920200
+    second: Invaders_85
+  - first:
+      213: 9095741256635394126
+    second: Invaders_86
+  - first:
+      213: -8342326940755607040
+    second: Invaders_87
+  - first:
+      213: -1661001867446042460
+    second: Invaders_88
+  - first:
+      213: -2759895062841660755
+    second: Invaders_89
+  - first:
+      213: -2437500956140721193
+    second: Invaders_90
+  - first:
+      213: -9004017407397547900
+    second: Invaders_91
+  - first:
+      213: -7474128744602053357
+    second: Invaders_92
+  - first:
+      213: -711285918455204267
+    second: Invaders_93
+  - first:
+      213: 1299663997534314784
+    second: Invaders_94
+  - first:
+      213: 7348542543884936286
+    second: Invaders_95
+  - first:
+      213: -1891680638902751680
+    second: Invaders_96
+  - first:
+      213: -69674488041558459
+    second: Invaders_97
+  - first:
+      213: 2067016831113249178
+    second: Invaders_98
+  - first:
+      213: -3868712199383491708
+    second: Invaders_99
+  - first:
+      213: 8600809527697266646
+    second: Invaders_100
+  - first:
+      213: -4252041872909402457
+    second: Invaders_101
+  - first:
+      213: -2857971242049430929
+    second: Invaders_102
+  - first:
+      213: 3317773111152754589
+    second: Invaders_103
+  - first:
+      213: 3063114103173160910
+    second: Invaders_104
+  - first:
+      213: -7157937440135663598
+    second: Invaders_105
+  - first:
+      213: -5929685702405048581
+    second: Invaders_106
+  - first:
+      213: 8893017196677942588
+    second: Invaders_107
+  - first:
+      213: -388114689660967115
+    second: Invaders_108
+  - first:
+      213: -1367168030438091893
+    second: Invaders_109
+  - first:
+      213: -2956170010685594471
+    second: Invaders_110
+  - first:
+      213: -4569771893812573196
+    second: Invaders_111
+  - first:
+      213: 3541046915209842858
+    second: Invaders_112
+  - first:
+      213: -4492953105586467574
+    second: Invaders_113
+  - first:
+      213: -4450356129704014063
+    second: Invaders_114
+  - first:
+      213: -3465784132905767805
+    second: Invaders_115
+  - first:
+      213: -3286858074401998376
+    second: Invaders_116
+  - first:
+      213: 6192977812896961078
+    second: Invaders_117
+  - first:
+      213: 3625453070523356330
+    second: Invaders_118
+  - first:
+      213: -3765925153248304102
+    second: Invaders_119
+  - first:
+      213: -1162442882813529915
+    second: Invaders_120
+  - first:
+      213: -7743612329553151966
+    second: Invaders_121
+  - first:
+      213: 3160462272815084583
+    second: Invaders_122
+  - first:
+      213: -5478357553440456744
+    second: Invaders_123
+  - first:
+      213: 5914061067893511454
+    second: Invaders_124
+  - first:
+      213: -7672218618397015369
+    second: Invaders_125
+  - first:
+      213: 6854079412467899492
+    second: Invaders_126
+  - first:
+      213: -7842674047197362732
+    second: Invaders_127
+  - first:
+      213: -5695040878941040101
+    second: Invaders_128
+  - first:
+      213: 8314606216083361468
+    second: Invaders_129
+  - first:
+      213: 486945050808854495
+    second: Invaders_130
+  - first:
+      213: 40290050693526645
+    second: Invaders_131
+  - first:
+      213: -8129956137175653141
+    second: Invaders_132
+  - first:
+      213: 4791527534099508730
+    second: Invaders_133
+  - first:
+      213: -4424425016585150867
+    second: Invaders_134
+  - first:
+      213: 1861111765870219041
+    second: Invaders_135
+  - first:
+      213: -8843408858979554661
+    second: Invaders_0
+  - first:
+      213: -992980983845954466
+    second: Invaders_1
+  - first:
+      213: -8100901661261797896
+    second: Invaders_2
+  - first:
+      213: -2452264866578160270
+    second: Invaders_3
+  - first:
+      213: 5931522601275253123
+    second: Invaders_4
+  - first:
+      213: -7589825284663173112
+    second: Invaders_5
+  - first:
+      213: -2789329769095854612
+    second: Invaders_6
+  - first:
+      213: 1346818480380554298
+    second: Invaders_7
+  - first:
+      213: 3883740785507863752
+    second: Invaders_8
+  - first:
+      213: -3851357101106084397
+    second: Invaders_9
+  - first:
+      213: -2962341614712509862
+    second: Invaders_10
+  - first:
+      213: -5094554568091539531
+    second: Invaders_11
+  - first:
+      213: 872668662941108500
+    second: Invaders_12
+  - first:
+      213: 3983479394665257024
+    second: Invaders_13
+  - first:
+      213: -1175648865585163043
+    second: Invaders_14
+  - first:
+      213: 66944382699733268
+    second: Invaders_15
+  - first:
+      213: -3099432941210867704
+    second: Invaders_16
+  - first:
+      213: 3776189201103976660
+    second: Invaders_17
+  - first:
+      213: -3295058756190450399
+    second: Invaders_18
+  - first:
+      213: -3126498789739699272
+    second: Invaders_19
+  - first:
+      213: -771981124313350173
+    second: Invaders_20
+  - first:
+      213: 2070121505219247857
+    second: Invaders_21
+  - first:
+      213: -7628862125500540593
+    second: Invaders_22
+  - first:
+      213: 97279563803852391
+    second: Invaders_23
+  - first:
+      213: 5371950675190131586
+    second: Invaders_24
+  - first:
+      213: 333809118242955720
+    second: Invaders_25
+  - first:
+      213: 8505176779390680987
+    second: Invaders_26
+  - first:
+      213: -6770358221844242784
+    second: Invaders_27
+  - first:
+      213: 9130880054113456976
+    second: Invaders_28
+  - first:
+      213: 4924586576705405357
+    second: Invaders_29
+  - first:
+      213: -3001182967467617021
+    second: Invaders_30
+  - first:
+      213: -3560225323686129441
+    second: Invaders_31
+  - first:
+      213: -8331457769563632549
+    second: Invaders_32
+  - first:
+      213: -2306706431880688684
+    second: Invaders_33
+  - first:
+      213: -2674583715266443941
+    second: Invaders_34
+  - first:
+      213: -5452424535224845777
+    second: Invaders_35
+  - first:
+      213: -6303863638287199188
+    second: Invaders_36
+  - first:
+      213: -2432025255526215476
+    second: Invaders_37
+  - first:
+      213: -5562423360010415090
+    second: Invaders_38
+  - first:
+      213: -320497777810567322
+    second: Invaders_39
+  - first:
+      213: -7021365012013437924
+    second: Invaders_40
+  - first:
+      213: -9187852527795108266
+    second: Invaders_41
+  - first:
+      213: 8708305607583225979
+    second: Invaders_42
+  - first:
+      213: 1810770126132193575
+    second: Invaders_43
+  - first:
+      213: -4792669891450626242
+    second: Invaders_44
+  - first:
+      213: 7211163446877934417
+    second: Invaders_45
+  - first:
+      213: -336776906800441513
+    second: Invaders_46
+  - first:
+      213: -2901220143589027785
+    second: Invaders_47
+  - first:
+      213: 3525667049660155353
+    second: Invaders_48
+  - first:
+      213: -121186228871056486
+    second: Invaders_49
+  - first:
+      213: -6779148934035703303
+    second: Invaders_50
+  - first:
+      213: -3668999801530542861
+    second: Invaders_51
+  - first:
+      213: 4223720565339896742
+    second: Invaders_52
+  - first:
+      213: 5678008337433385558
+    second: Invaders_53
+  - first:
+      213: -3214772415866784450
+    second: Invaders_54
+  - first:
+      213: 6872026809031415750
+    second: Invaders_55
+  - first:
+      213: 6540964811669031402
+    second: Invaders_56
+  - first:
+      213: -2693768646149947387
+    second: Invaders_57
+  - first:
+      213: -8664211965327488311
+    second: Invaders_58
+  - first:
+      213: -5268977425898728656
+    second: Invaders_59
+  - first:
+      213: 156081524502526237
+    second: Invaders_60
+  - first:
+      213: -6094909085383894225
+    second: Invaders_61
+  - first:
+      213: 2817987526586889592
+    second: Invaders_62
+  - first:
+      213: 3435633342867897876
+    second: Invaders_63
+  - first:
+      213: -3718062152967178170
+    second: Invaders_64
+  - first:
+      213: 6298824844198601872
+    second: Invaders_65
+  - first:
+      213: -6961045317561615936
+    second: Invaders_66
+  - first:
+      213: -6502350234439121548
+    second: Invaders_67
+  - first:
+      213: -8645978053062818351
+    second: Invaders_68
+  - first:
+      213: -6043897359834305498
+    second: Invaders_69
+  - first:
+      213: -3130030438652245594
+    second: Invaders_70
+  - first:
+      213: -7128814396720065803
+    second: Invaders_71
+  - first:
+      213: 8850667875630739963
+    second: Invaders_72
+  - first:
+      213: 2544108243774711770
+    second: Invaders_73
+  - first:
+      213: -5853907284943759428
+    second: Invaders_74
+  - first:
+      213: 628711068862624745
+    second: Invaders_75
+  - first:
+      213: -6681854367776864727
+    second: Invaders_76
+  - first:
+      213: 7115216996394231245
+    second: Invaders_77
+  - first:
+      213: 8894244757278885670
+    second: Invaders_78
+  - first:
+      213: 4341274139736222598
+    second: Invaders_79
+  - first:
+      213: 3347139118710012018
+    second: Invaders_80
+  - first:
+      213: -8458094313555694844
+    second: Invaders_81
+  - first:
+      213: 824603919308836851
+    second: Invaders_82
+  - first:
+      213: 1792039766559909986
+    second: Invaders_83
+  - first:
+      213: 5106656249004307068
+    second: Invaders_84
+  - first:
+      213: 4597222176534520709
+    second: Invaders_85
+  - first:
+      213: -2116292954569696362
+    second: Invaders_86
+  - first:
+      213: 3445490397733868361
+    second: Invaders_87
+  - first:
+      213: 2854604782313558567
+    second: Invaders_88
+  - first:
+      213: -4449356203591675552
+    second: Invaders_89
+  - first:
+      213: 2776481125583569270
+    second: Invaders_90
+  - first:
+      213: 5857829306102754213
+    second: Invaders_91
+  - first:
+      213: 6836608808636418458
+    second: Invaders_92
+  - first:
+      213: 8637564999464089117
+    second: Invaders_93
+  - first:
+      213: -6937660938288947539
+    second: Invaders_94
+  - first:
+      213: -4436712426904180787
+    second: Invaders_95
+  - first:
+      213: 1592106983529146058
+    second: Invaders_96
+  - first:
+      213: 1580561657942858464
+    second: Invaders_97
+  - first:
+      213: 2467480594769291484
+    second: Invaders_98
+  - first:
+      213: 3386444037306950704
+    second: Invaders_99
+  - first:
+      213: 9163228088454937744
+    second: Invaders_100
+  - first:
+      213: -4654980098072555167
+    second: Invaders_101
+  - first:
+      213: -6596199606560145158
+    second: Invaders_102
+  - first:
+      213: 8979013954017992402
+    second: Invaders_103
+  - first:
+      213: -6935091972171705125
+    second: Invaders_104
+  - first:
+      213: -7011920397365236957
+    second: Invaders_105
+  - first:
+      213: -6598581583091936682
+    second: Invaders_106
+  - first:
+      213: 614516991493245626
+    second: Invaders_107
+  - first:
+      213: -4473794283437605419
+    second: Invaders_108
+  - first:
+      213: 4435283342626520298
+    second: Invaders_109
+  - first:
+      213: -4327889643378190157
+    second: Invaders_110
+  - first:
+      213: -6085961070784270796
+    second: Invaders_111
+  - first:
+      213: -9133099592557716179
+    second: Invaders_112
+  - first:
+      213: 8924123736808834812
+    second: Invaders_113
+  - first:
+      213: 8915637825676468106
+    second: Invaders_114
+  - first:
+      213: -8773589068318288901
+    second: Invaders_115
+  - first:
+      213: 6892396419888350008
+    second: Invaders_136
+  - first:
+      213: -1673621176690804358
+    second: Invaders_137
+  - first:
+      213: -3721803791126688175
+    second: Invaders_138
+  - first:
+      213: 2560068630244839286
+    second: Invaders_139
+  - first:
+      213: 6686122061670199065
+    second: Invaders_140
+  - first:
+      213: 7648150263921123131
+    second: Invaders_141
+  - first:
+      213: -3884678835018989047
+    second: Invaders_142
+  - first:
+      213: -2237375570707191615
+    second: Invaders_143
+  - first:
+      213: 2280038287867426900
+    second: Invaders_144
+  - first:
+      213: -664917084487769530
+    second: Invaders_145
+  - first:
+      213: -1467056816347135546
+    second: Invaders_146
+  - first:
+      213: -6728121027452080079
+    second: Invaders_147
+  - first:
+      213: -492751412213459380
+    second: Invaders_148
+  - first:
+      213: -653184351593820407
+    second: Invaders_149
+  - first:
+      213: 101218891794281819
+    second: Invaders_150
+  - first:
+      213: -3008573568442838999
+    second: Invaders_151
+  - first:
+      213: -3308199864746818262
+    second: Invaders_152
+  - first:
+      213: 5652156224081277046
+    second: Invaders_153
+  - first:
+      213: -4409937334666336413
+    second: Invaders_154
+  - first:
+      213: -2995258202800609212
+    second: Invaders_155
+  - first:
+      213: 3529421691527368040
+    second: Invaders_156
+  - first:
+      213: 641028175562792103
+    second: Invaders_157
+  - first:
+      213: 17999225304011918
+    second: Invaders_158
+  - first:
+      213: -3675025980844585056
+    second: Invaders_159
+  - first:
+      213: -3005867965199468080
+    second: Invaders_160
+  - first:
+      213: 2376473100641240134
+    second: Invaders_161
+  - first:
+      213: 5745687736030542399
+    second: Invaders_162
+  - first:
+      213: -6688617251931609166
+    second: Invaders_163
+  - first:
+      213: -5717019422095625911
+    second: Invaders_164
+  - first:
+      213: -4937393794972822967
+    second: Invaders_165
+  - first:
+      213: -1082170257467981657
+    second: Invaders_166
+  - first:
+      213: -6222454778061962103
+    second: Invaders_167
+  - first:
+      213: 7384224235964042737
+    second: Invaders_168
+  - first:
+      213: -207779069358201211
+    second: Invaders_169
+  - first:
+      213: -4502520092672846547
+    second: Invaders_170
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Invaders_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 597
+        width: 79
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a2bf44f76e54580800000000000000
+      internalID: -8843408858979554661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 597
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cd4256e093832f0800000000000000
+      internalID: -992980983845954466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 598
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f56e180cd0d39f80800000000000000
+      internalID: -8100901661261797896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 597
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2752074b81ec7fdd0800000000000000
+      internalID: -2452264866578160270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 597
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381663a1160015250800000000000000
+      internalID: 5931522601275253123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_5
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 598
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800af50cd168ba690800000000000000
+      internalID: -7589825284663173112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_6
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 597
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce58e9f7a5f4a49d0800000000000000
+      internalID: -2789329769095854612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_7
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 597
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ca30ca54cd0b210800000000000000
+      internalID: 1346818480380554298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_8
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 597
+        width: 80
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc84efdaa1d5e530800000000000000
+      internalID: 3883740785507863752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_9
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 598
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5c4653f1b3d8ac0800000000000000
+      internalID: -3851357101106084397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_10
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 597
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a24bf1ff5a3e6d0800000000000000
+      internalID: -2962341614712509862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_11
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 597
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b76f08cc918c49b0800000000000000
+      internalID: -5094554568091539531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 598
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419483d76875c1c00800000000000000
+      internalID: 872668662941108500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_13
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 597
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0485c117769284730800000000000000
+      internalID: 3983479394665257024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 523
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4943ae5914fafe0800000000000000
+      internalID: -1175648865585163043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 523
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4118686bf85dde000800000000000000
+      internalID: 66944382699733268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 524
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8086bf5592a9cf4d0800000000000000
+      internalID: -3099432941210867704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 523
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8f7704218b76430800000000000000
+      internalID: 3776189201103976660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 523
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d4a3be4899542d0800000000000000
+      internalID: -3295058756190450399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_19
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 524
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b360e66ae17c94d0800000000000000
+      internalID: -3126498789739699272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_20
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 523
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3effeffe14f5945f0800000000000000
+      internalID: -771981124313350173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_21
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 523
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe7d708a8c8abc10800000000000000
+      internalID: 2070121505219247857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_22
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 523
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49db19f056d02690800000000000000
+      internalID: -7628862125500540593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_23
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 524
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76efe647f3b995100800000000000000
+      internalID: 97279563803852391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_24
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 523
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ba0a16da00d8a40800000000000000
+      internalID: 5371950675190131586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_25
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 523
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c168abdf9de1a400800000000000000
+      internalID: 333809118242955720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_26
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 524
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f7b7fe735780670800000000000000
+      internalID: 8505176779390680987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_27
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 523
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae14d0711bda02a0800000000000000
+      internalID: -6770358221844242784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 449
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053d120280767be70800000000000000
+      internalID: 9130880054113456976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 449
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1ce226665a75440800000000000000
+      internalID: 4924586576705405357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_30
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 450
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305d326fdf7a956d0800000000000000
+      internalID: -3001182967467617021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 449
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd096555ee9879ec0800000000000000
+      internalID: -3560225323686129441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 449
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ccdffec47b06c80800000000000000
+      internalID: -8331457769563632549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_33
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 450
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db84aeb8beecffd0800000000000000
+      internalID: -2306706431880688684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_34
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 449
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55cf711848f1ead0800000000000000
+      internalID: -2674583715266443941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_35
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 449
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a7c4df5c81554b0800000000000000
+      internalID: -5452424535224845777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_36
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 449
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24d3679b6d2488a0800000000000000
+      internalID: -6303863638287199188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_37
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 450
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0d49f5ae5bf3ed0800000000000000
+      internalID: -2432025255526215476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_38
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 449
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e049e30dc6d4ec2b0800000000000000
+      internalID: -5562423360010415090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_39
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 449
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f8c4a18fc5d8bf0800000000000000
+      internalID: -320497777810567322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_40
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 450
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c259ce8b91f8e90800000000000000
+      internalID: -7021365012013437924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_41
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 449
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65609182ec03e7080800000000000000
+      internalID: -9187852527795108266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 375
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b785a8fbfcd1ad870800000000000000
+      internalID: 8708305607583225979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 375
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729aff9f5d5212910800000000000000
+      internalID: 1810770126132193575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_44
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 376
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f106a50240d7db0800000000000000
+      internalID: -4792669891450626242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 375
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153d074d2f2331460800000000000000
+      internalID: 7211163446877934417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 375
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757da950037835bf0800000000000000
+      internalID: -336776906800441513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_47
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 376
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7301b2696abccb7d0800000000000000
+      internalID: -2901220143589027785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_48
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 375
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d50b4b708fade030800000000000000
+      internalID: 3525667049660155353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_49
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 375
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93b87454c5715ef0800000000000000
+      internalID: -121186228871056486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_50
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 375
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9755346ff9be1a0800000000000000
+      internalID: -6779148934035703303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_51
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 376
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f41bc4ae18151dc0800000000000000
+      internalID: -3668999801530542861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_52
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 375
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abb897d97bad9a30800000000000000
+      internalID: 4223720565339896742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_53
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 375
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a5c60ef765cce40800000000000000
+      internalID: 5678008337433385558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_54
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 376
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3539863585d263d0800000000000000
+      internalID: -3214772415866784450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_55
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 375
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7574729f75e5f50800000000000000
+      internalID: 6872026809031415750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 301
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9ccd737dc26ca50800000000000000
+      internalID: 6540964811669031402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_57
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 301
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500c52340bfcd9ad0800000000000000
+      internalID: -2693768646149947387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_58
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 302
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca47fb5f1982c780800000000000000
+      internalID: -8664211965327488311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_59
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 301
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03311c782f4d0e6b0800000000000000
+      internalID: -5268977425898728656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_60
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 301
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1979ffc1538a2200800000000000000
+      internalID: 156081524502526237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_61
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 302
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b5463aa788a6ba0800000000000000
+      internalID: -6094909085383894225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_62
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 301
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87571bf99b08b1720800000000000000
+      internalID: 2817987526586889592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_63
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 301
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ef0249252ddaf20800000000000000
+      internalID: 3435633342867897876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_64
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 301
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6483197cb2ac66cc0800000000000000
+      internalID: -3718062152967178170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_65
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 302
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094ecdcb2dbe96750800000000000000
+      internalID: 6298824844198601872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_66
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 301
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f7553a26656f90800000000000000
+      internalID: -6961045317561615936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_67
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 301
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4750417a9e203c5a0800000000000000
+      internalID: -6502350234439121548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_68
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 302
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d50e53e4c0530880800000000000000
+      internalID: -8645978053062818351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_69
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 301
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ca7288f53cf1ca0800000000000000
+      internalID: -6043897359834305498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 227
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a909ff46e5ef84d0800000000000000
+      internalID: -3130030438652245594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_71
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 227
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f25fc5831d511d90800000000000000
+      internalID: -7128814396720065803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_72
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 228
+        width: 79
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf17eef3a83e3da70800000000000000
+      internalID: 8850667875630739963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 227
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7a55ce7fc7e4320800000000000000
+      internalID: 2544108243774711770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_74
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 227
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb71bd4f65eb2cea0800000000000000
+      internalID: -5853907284943759428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_75
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 228
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3b9e5d261a9b800800000000000000
+      internalID: 628711068862624745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_76
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 227
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92684cfbad84543a0800000000000000
+      internalID: -6681854367776864727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_77
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 155
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc566e109245eb260800000000000000
+      internalID: 7115216996394231245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_78
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 153
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6270df6ab74be6b70800000000000000
+      internalID: 8894244757278885670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_79
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 155
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b219b34dd4f3c30800000000000000
+      internalID: 4341274139736222598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_80
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 153
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27836886b4d637e20800000000000000
+      internalID: 3347139118710012018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_81
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 155
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40be2c3e800de9a80800000000000000
+      internalID: -8458094313555694844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_82
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 153
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff4cca45e4917b00800000000000000
+      internalID: 824603919308836851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_83
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 155
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2686d2d4caa9ed810800000000000000
+      internalID: 1792039766559909986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_84
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 153
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c723eef5dcc7ed640800000000000000
+      internalID: 5106656249004307068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_85
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 155
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58363e1663d9ccf30800000000000000
+      internalID: 4597222176534520709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_86
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 153
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b163a35ca61a2e0800000000000000
+      internalID: -2116292954569696362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_87
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 155
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94352f10347d0df20800000000000000
+      internalID: 3445490397733868361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_88
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 79
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7225ee7dce79d9720800000000000000
+      internalID: 2854604782313558567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_89
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 81
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061dcb54b16b042c0800000000000000
+      internalID: -4449356203591675552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_90
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 79
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6714cff8fda088620800000000000000
+      internalID: 2776481125583569270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_91
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 81
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aba021c7b03b4150800000000000000
+      internalID: 5857829306102754213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_92
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 79
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9984135d7380ee50800000000000000
+      internalID: 6836608808636418458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_93
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 81
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16776d6a9bced770800000000000000
+      internalID: 8637564999464089117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_94
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 79
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae1f29422a78bf90800000000000000
+      internalID: -6937660938288947539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_95
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 81
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7a0dfed81ad62c0800000000000000
+      internalID: -4436712426904180787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_96
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 79
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac66cadbddc481610800000000000000
+      internalID: 1592106983529146058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_97
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 81
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea594724784fe510800000000000000
+      internalID: 1580561657942858464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_98
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 81
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8a46517804e3220800000000000000
+      internalID: 2467480594769291484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_99
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034ab67e8e01ffe20800000000000000
+      internalID: 3386444037306950704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_100
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 37
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cfc38c5635a2f70800000000000000
+      internalID: 9163228088454937744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_101
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1615fd19340366fb0800000000000000
+      internalID: -4654980098072555167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_102
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0496fe7679574a0800000000000000
+      internalID: -6596199606560145158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_103
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 37
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de948a4e9ddb9c70800000000000000
+      internalID: 8979013954017992402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_104
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4da02589a91cf90800000000000000
+      internalID: -6935091972171705125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 37
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32baab1ac87a0be90800000000000000
+      internalID: -7011920397365236957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_106
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 37
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652de5ec2012d64a0800000000000000
+      internalID: -6598581583091936682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_107
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba856aa2f3378800800000000000000
+      internalID: 614516991493245626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_108
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 37
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd37896dc3e9e1c0800000000000000
+      internalID: -4473794283437605419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_109
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecf57373ba4d8d30800000000000000
+      internalID: 4435283342626520298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_110
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8d95bac4f30f3c0800000000000000
+      internalID: -4327889643378190157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_111
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e2c03a6a25a8ba0800000000000000
+      internalID: -6085961070784270796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_112
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d155f4f46b04180800000000000000
+      internalID: -9133099592557716179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_113
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf64f10b14bd8db70800000000000000
+      internalID: 8924123736808834812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_114
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 37
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f5b798d55babb70800000000000000
+      internalID: 8915637825676468106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_115
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf353a11a33fd3680800000000000000
+      internalID: -8773589068318288901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_116
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 37
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9f420fefbb262d0800000000000000
+      internalID: -3286858074401998376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_117
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 37
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632599f4280e1f550800000000000000
+      internalID: 6192977812896961078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_118
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 35
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4d462fb52305230800000000000000
+      internalID: 3625453070523356330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_119
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a142ded960fbcbbc0800000000000000
+      internalID: -3765925153248304102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_120
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0f7326b5c2edfe0800000000000000
+      internalID: -1162442882813529915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_121
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22836aa1d99298490800000000000000
+      internalID: -7743612329553151966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_122
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 37
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724ba2931b73cdb20800000000000000
+      internalID: 3160462272815084583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_123
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df7a9aa4d6f8f3b0800000000000000
+      internalID: -5478357553440456744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_124
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1592cb0537f21250800000000000000
+      internalID: 5914061067893511454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_125
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 37
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2ce43d0ddc68590800000000000000
+      internalID: -7672218618397015369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_126
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c977249e49e1f50800000000000000
+      internalID: 6854079412467899492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_127
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 37
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d540af9189392390800000000000000
+      internalID: -7842674047197362732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_128
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 37
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1214658e7627f0b0800000000000000
+      internalID: -5695040878941040101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_129
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 35
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe47e40d4a636370800000000000000
+      internalID: 8314606216083361468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_130
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 35
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7a89a91f9f1c600800000000000000
+      internalID: 486945050808854495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_131
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574f19f66932f8000800000000000000
+      internalID: 40290050693526645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_132
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 37
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be46324b7f79c2f80800000000000000
+      internalID: -8129956137175653141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_133
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 37
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd2189d7ecee7240800000000000000
+      internalID: 4791527534099508730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_134
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 35
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e171793e84992c0800000000000000
+      internalID: -4424425016585150867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_135
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 37
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f8efb5a4ff3d910800000000000000
+      internalID: 1861111765870219041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_136
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 36
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8338e92c606b6af50800000000000000
+      internalID: 6892396419888350008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_137
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79f5c2386a16c8e0800000000000000
+      internalID: -1673621176690804358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_138
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e0132cb2f795cc0800000000000000
+      internalID: -3721803791126688175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_139
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 35
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f4d5afad0378320800000000000000
+      internalID: 2560068630244839286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_140
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 37
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f21ca2790e9cc50800000000000000
+      internalID: 6686122061670199065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_141
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f14d5b420b32a60800000000000000
+      internalID: 7648150263921123131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_142
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90207347e29d61ac0800000000000000
+      internalID: -3884678835018989047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_143
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 37
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c86cd6c5ce33f0e0800000000000000
+      internalID: -2237375570707191615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_144
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 37
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b0ae1eb254af10800000000000000
+      internalID: 2280038287867426900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_145
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642a40e3f6db5c6f0800000000000000
+      internalID: -664917084487769530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_146
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 35
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1405c2997f3abe0800000000000000
+      internalID: -1467056816347135546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_147
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 35
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130f1e89299e0a2a0800000000000000
+      internalID: -6728121027452080079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_148
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 35
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46d17883356929f0800000000000000
+      internalID: -492751412213459380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_149
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 37
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f086efa4c6fe6f0800000000000000
+      internalID: -653184351593820407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_150
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 37
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f4f9bb0a976100800000000000000
+      internalID: 101218891794281819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_151
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920d55497466f36d0800000000000000
+      internalID: -3008573568442838999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_152
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2545c720c9e612d0800000000000000
+      internalID: -3308199864746818262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_153
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670b06fa32e707e40800000000000000
+      internalID: 5652156224081277046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_154
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 37
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367ea75eb51ccc2c0800000000000000
+      internalID: -4409937334666336413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_155
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448ae7bb884be66d0800000000000000
+      internalID: -2995258202800609212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_156
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 37
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d0c0a24560bf030800000000000000
+      internalID: 3529421691527368040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_157
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 37
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acdf67bab365e800800000000000000
+      internalID: 641028175562792103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_158
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e845a763332ff3000800000000000000
+      internalID: 17999225304011918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_159
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af4d6f675faffcc0800000000000000
+      internalID: -3675025980844585056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_160
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d93f8ce2030946d0800000000000000
+      internalID: -3005867965199468080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_161
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6440ef5a1bdeaf020800000000000000
+      internalID: 2376473100641240134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_162
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 37
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a3b60dd88ccbf40800000000000000
+      internalID: 5745687736030542399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_163
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b721141c024d23a0800000000000000
+      internalID: -6688617251931609166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_164
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9413bfb202119a0b0800000000000000
+      internalID: -5717019422095625911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_165
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9425d6eb08ada7bb0800000000000000
+      internalID: -4937393794972822967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_166
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c02962eb5bf0f0800000000000000
+      internalID: -1082170257467981657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_167
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9844faae85665a9a0800000000000000
+      internalID: -6222454778061962103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_168
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd877eb1d80a7660800000000000000
+      internalID: 7384224235964042737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_169
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 37
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586a42b8902dd1df0800000000000000
+      internalID: -207779069358201211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Invaders_170
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 35
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d251d22c4d5d381c0800000000000000
+      internalID: -4502520092672846547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
