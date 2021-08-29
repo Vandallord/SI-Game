@@ -1,3 +1,3 @@
 # SI-Game
 
-Example of my code in unit / Пример моего кода в юнити
+Example of my code in Unity / Пример моего кода в Unity
